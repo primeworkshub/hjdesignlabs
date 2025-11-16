@@ -203,7 +203,7 @@ document.head.appendChild(style);
 // Page Load Performance
 // ===================================
 window.addEventListener('load', () => {
-    console.log('HT Design Labs website loaded successfully');
+    console.log('HJ Design Labs website loaded successfully');
     
     // Remove loading class if exists
     document.body.classList.remove('loading');
